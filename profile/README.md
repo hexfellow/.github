@@ -11,4 +11,10 @@ For most of our products, you have three layers of API that can be used:
 ## Other Community maintained projects:
 > These projects are community maintained. If you encountered any problems, please reach for devs directly or open discussion/issue.
 
-ROS package for Base: [https://github.com/hexfellow/hex_vehicle](https://github.com/hexfellow/hex_vehicle)
+[ROS2 package](https://github.com/hexfellow/hex_device)
+
+## Follow us
+
+- [YouTube](https://www.youtube.com/@hexfellow)
+- [\X](https://x.com/hexfellow)
+- [Discord](https://discord.gg/HdGceFwRCj)
