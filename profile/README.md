@@ -1,7 +1,7 @@
 # Hi there 👋
 
 👩‍💻 For docs of our products, check out our docs [site](https://docs.hexfellow.com) and [home page](https://hexfellow.com).
-🧙 If you've got any questions, feel free to open a new discussion at discussions😁
+🧙 If you've got any questions, feel free to open a new discussion at github😁. Or, join our [Discord](https://discord.gg/HdGceFwRCj) if you want.
 
 For most of our products, you have three layers of API that can be used:
 1. Officially Supported [Websocket and UDP API protocol](https://github.com/hexfellow/proto-public-api), with [examples](https://github.com/hexfellow/robot-demos)
